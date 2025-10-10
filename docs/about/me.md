@@ -1,6 +1,6 @@
 # About
 
-![](../images/perezoso.jpg)
+![](../images/endarken.jpg)
 
 Im from Peru
 
