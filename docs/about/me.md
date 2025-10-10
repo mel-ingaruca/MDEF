@@ -1,6 +1,6 @@
 # About
 
-![](../images/endarken.jpg)
+![](../images/tayrona.jpg)
 
 Im from Peru
 1
