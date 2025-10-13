@@ -1,4 +1,4 @@
-## Welcome to my website!
+## Hello!
 
 ![](../images/endarken.jpg)
 
