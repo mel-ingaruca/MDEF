@@ -12,7 +12,6 @@ nav:
   - Home: index.md
   - About: about/me.md
   - Master project:
-      - Initial ideas: project/project.md
       - Design Studio 0: project/design-studio-0.md
       - Design Studio I: project/design-studio-1.md
       - Fundamentals of Making: project/fundamentals-of-making.md
