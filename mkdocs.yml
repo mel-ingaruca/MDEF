@@ -57,7 +57,7 @@ theme:
   features:
     - instant
     - navigation.expand
-    - navigation.indexes
+    # - navigation.indexes
     - navigation.instant
     # - navigation.prune
     # - navigation.sections
