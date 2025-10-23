@@ -40,3 +40,14 @@
     font-weight: 300;
     font-size: 14px;
 }
+
+/* Navigation menu hover color - dark blue */
+.md-nav__link:hover {
+    color: #1a237e !important;
+    background-color: rgba(26, 35, 126, 0.1);
+}
+
+.md-nav__item--active > .md-nav__link {
+    color: #1a237e !important;
+    font-weight: 500;
+}
