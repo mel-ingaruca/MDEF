@@ -29,7 +29,7 @@
   .md-typeset .home-title {
     color: #390dea;
     font-family: 'Be Vietnam', urbanist /* your font */
-    font-size: 6.6rem !important;                  /* your size */
+    font-size: 2.6rem;                  /* your size */
     font-weight: 300;                       /* optional */
     line-height: 1.2;
   }
