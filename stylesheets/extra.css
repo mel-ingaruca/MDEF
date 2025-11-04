@@ -11,7 +11,6 @@
 
 }
 
-
 .hide-scroll-bar {
     -ms-overflow-style: none;
     scrollbar-width: none;
@@ -26,7 +25,24 @@
     border-radius: 4px;
   }
 
-.cardContent {
+  .md-typeset .home-title {
+    color: #390dea;
+    font-family: 'Be Vietnam', urbanist /* your font */
+    font-size: 2.6rem;                  /* your size */
+    font-weight: 300;                       /* optional */
+    line-height: 1.2;
+  }
+
+  /* Match Master courses page titles to Home blue */
+  .md-typeset .master-title {
+    color: #390dea !important;
+  }
+  .md-typeset .about-title {
+    color: #390dea !important
+  }
+
+
+  .cardContent {
   padding: 16px;
   font-size: 16px;
   color: rgb(32, 32, 32);
@@ -50,4 +66,62 @@
 .md-nav__item--active > .md-nav__link {
     color: #1a237e !important;
     font-weight: 500;
+}
+
+body{background-color: #f4f4f4;}
+/* Top navigation bar (header) */
+.md-header {
+  background-color: #f4f4f4 !important; /* your color */
+}
+.md-header .md-header__title,
+.md-header .md-icon,
+.md-header .md-logo {
+  color: #f7f7f7 !important; /* title and icon color */
+}
+
+/* Hide the top header entirely and remove its spacing */
+.md-header {
+  display: none !important;
+}
+
+/* Pull main content and sidebars up since header is hidden */
+.md-main {
+  margin-top: 0 !important;
+}
+.md-sidebar--primary,
+.md-sidebar--secondary {
+  top: 0 !important;
+}
+
+/* On mobile, ensure the drawer sits at the very top */
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary,
+  .md-drawer {
+    top: 0 !important;
+  }
+}
+
+/* Hide Table of Contents (right sidebar) site-wide */
+.md-sidebar--secondary,
+.md-nav--secondary {
+  display: none !important;
+}
+
+/* Optional: expand content area when TOC is hidden */
+@media screen and (min-width: 76.1875em) {
+  .md-main__inner {
+    margin-right: 0 !important;
+  }
+}
+
+/* Make the overall page container wider */
+.md-grid {
+  max-width: 120rem !important; /* increase overall site width */
+}
+
+/* Allow the content column to grow wider when TOC is hidden */
+@media screen and (min-width: 76.1875em) {
+  .md-content {
+    max-width: 90rem !important;
+  }
 }
