@@ -6,7 +6,8 @@ This section documents your work in Design Studio I.
 
 ## Projects
 
-Add your Design Studio I projects and documentation here.
+### 
+Add your other Design Studio I projects and documentation here.
 
 ## Reflections
 
