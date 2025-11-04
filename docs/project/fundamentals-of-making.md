@@ -1,4 +1,4 @@
-# Fundamentals of Making
+# Fundamentals of Making {: .master-title}
 
 ## Overview
 

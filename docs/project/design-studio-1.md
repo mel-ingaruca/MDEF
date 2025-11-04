@@ -1,4 +1,4 @@
-# Design Studio I
+# Design Studio I {: .master-title}
 
 ## Overview
 

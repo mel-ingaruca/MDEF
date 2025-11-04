@@ -1,4 +1,4 @@
-# Other Species
+# Other Species {: .master-title}
 
 ## Overview
 
