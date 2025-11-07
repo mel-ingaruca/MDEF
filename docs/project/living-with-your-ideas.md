@@ -14,14 +14,20 @@ Echoing Branch es is a sculptural extension of the body — a structure of tree 
 
 For some time now, I have been drawn to a curious endeavor: talking to the mountains. But how does one even begin to listen to a mountain? Sometimes nature speaks to us loudly — birds chirping, frogs croaking, bees humming. But listening to abiotic nature is a challenge. A mountain exists in deep time: static to our perception, immense beyond our grasp. Then it occurred to me — could movement be a language to communicate with the mountain? After all, movement only emerges through my conscious interaction with the mountain’s morphology. It is a dialogue. The mountain affords my movement. Yet my body feels so small compared to its vastness. I felt the urge to expand — even if a bit — the reach of my body.
  
-The notion of cyborg offered some inspiration for this experiment. Cyborg art is about creating new senses or expanding the existing ones to better connect to ecologies. My challenge was to develop a sensory prothesis to untap a new channel of communication with the mountain. However, I’ve long felt uneasy about the conventional aesthetics of sensory augmentation that are loaded with electronics, wires, and synthetic materials — a technological skin that, to me, feels at odds with the organic world I seek to attune to. I wanted to expand my sensory system with natural elements. This is how Echoing Branches emerged. I set up to collect fallen tree branches in Poblenou. I attached them with a wire so that I could wear them in the arms, legs (below the knees) and back. 
+The notion of cyborg offered some inspiration for this experiment. Cyborg art is about creating new senses or expanding the existing ones to better connect to ecologies. My challenge was to develop a sensory prothesis to untap a new channel of communication with the mountain. However, I’ve long felt uneasy about the conventional aesthetics of sensory augmentation that are loaded with electronics, wires, and synthetic materials — a technological skin that, to me, feels at odds with the organic world I seek to attune to. I wanted to expand my sensory system with natural elements. So I set up to collect fallen tree branches in Poblenou. This was the starting point for Echoing Branches.
 
-<div style="display: flex; gap: 20px; align-items: center;">
-<img src="images/collectbranch1.gif" alt="Collecting branch animation" width="200">
-<img src="images/collectbranch2.gif" alt="Collecting branch animation2" width="200">
-</div>
+![collect1](../images/collectbranch1.gif)
+![collect2](../images/collectbranch2.gif)
 
-In this way, I extended the reach of my body with the branches. As I walked, I could feel subtle vibrations through the branches — traces of movement, friction, and contact. But could I go further? Could this tactile sense also become audible? By attaching contact microphones to the branches’ tips, I could translate those vibrations into sound, amplifying the otherwise inaudible interactions between my movement and the mountain. In this way, I could bring the sounds of the biotic to the forefront of my acoustic experience. Can the sound of the movement tell me something about the mountain? What conversations will emerge? Through the branches of a fallen tree, I expand my hearing. In the echoes of my movement, I hear the mountain
+I attached the branches with a wire so that any person could wear them in the arms, legs (below the knees) and back. I ran some tests in the space of IAAC building (Thanks Ayal for wearing the branches!). Walking went smoothly. 
+
+![walk1](../images/walkbranch1.gif)
+![walk2](../images/walkbranch2.gif)
+![walk3](../images/walkbranch3.gif)
+
+I was ready for the mountain. Before the climb, I extended the reach of my body with the branches. As I walked, I could feel subtle vibrations through the branches — traces of movement, friction, and contact. (add gif of mountain walk)
+
+But could I go further? Could this tactile sense also become audible? By attaching contact microphones to the branches’ tips, I could translate those vibrations into sound, amplifying the otherwise inaudible interactions between my movement and the mountain. Walking would be transformed by the act of bringing the sounds of the biotic to the forefront of my acoustic experience. Can the sound of the movement tell me something about the mountain? What conversations will emerge? Through the branches of a fallen tree, I expand my hearing. In the echoes of my movement, I hear the mountain
   
 
 
@@ -36,3 +42,6 @@ Keywords: Listening to the mountain, movement as language, movement to sound, au
 </td>
   </tr>
 </table>
+
+
+# Prothesis Two: Fungal Sensing {: .master-title}
