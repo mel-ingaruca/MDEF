@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
 :root>* {
 
     --md-footer-bg-color: white;
@@ -27,7 +29,7 @@
 
   .md-typeset .home-title {
     color: #390dea;
-    font-family: 'Be Vietnam', urbanist /* your font */
+    font-family: 'Urbanist', sans-serif;
     font-size: 2.6rem;                  /* your size */
     font-weight: 300;                       /* optional */
     line-height: 1.2;
@@ -37,15 +39,23 @@
   .md-typeset .master-title {
     color: #390dea !important;
   }
-  .md-typeset .about-title {
-    color: #390dea !important
-  }
+  
 
 
   .cardContent {
   padding: 16px;
   font-size: 16px;
   color: rgb(32, 32, 32);
+}
+
+/* Apply Urbanist font to all section titles/headings */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    font-family: 'Urbanist', sans-serif;
 }
 
 .md-typeset h2 {
@@ -68,7 +78,7 @@
     font-weight: 500;
 }
 
-body{background-color: #f4f4f4;}
+body{background-color: #ffffff;}
 /* Top navigation bar (header) */
 .md-header {
   background-color: #f4f4f4 !important; /* your color */
@@ -125,3 +135,4 @@ body{background-color: #f4f4f4;}
     max-width: 90rem !important;
   }
 }
+
