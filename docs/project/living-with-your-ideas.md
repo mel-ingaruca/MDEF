@@ -5,7 +5,7 @@ title: Living with your ideas
 # Prothesis One: Echoing Branches {: .master-title}
 
 
-![quote1](quote1/.jpg)
+![frase](quote1/.jpg)
 
 
 Echoing Branch es is a sculptural extension of the body — a structure of tree branches that expands my spatial awareness through sound. Each branch acts as an external sensory limb, equipped with contact microphones at its tips. As I move, the branches brush against the environment, picking up subtle vibrations and surface contacts. These mechanical signals are converted into electrical ones, then sonified and transmitted to my skull via bone-conduction transducers. Through this, I perceive the textures and micro-movements of the surrounding space as sound — experiencing the world’s surfaces and resonances without obstructing my natural hearing.
