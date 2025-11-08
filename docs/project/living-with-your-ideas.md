@@ -8,7 +8,9 @@ title: Living with your ideas
 
 Echoing Branch es is a sculptural extension of the body — a structure of tree branches that expands my spatial awareness through sound. Each branch acts as an external sensory limb, equipped with contact microphones at its tips. As I move, the branches brush against the environment, picking up subtle vibrations and surface contacts. These mechanical signals are converted into electrical ones, then sonified and transmitted to my skull via bone-conduction transducers. Through this, I perceive the textures and micro-movements of the surrounding space as sound — experiencing the world’s surfaces and resonances without obstructing my natural hearing.
 
-![prothesisfrontal](../images/ayalbranches.jpg)
+![prothesisfrontal](../images/frontal.jpeg)
+![prothesisfrontal](../images/side1.jpeg)
+![prothesisfrontal](../images/side2.jpeg)
 
 ##Reflection##
 
@@ -19,15 +21,21 @@ The notion of cyborg offered some inspiration for this experiment. Cyborg art is
 ![collect1](../images/collectbranch1.gif)
 ![collect2](../images/collectbranch2.gif)
 
-I attached the branches with a wire so that any person could wear them in the arms, legs (below the knees) and back. I ran some tests in the space of IAAC building (Thanks Ayal for wearing the branches!). Walking went smoothly. 
+I attached the branches with a wire so that any person could wear them in the arms, legs (below the knees) and back. I ran some tests in the space of IAAC building (Thanks Ayal for wearing the branches!).
 
-![walk1](../images/walkbranch1.gif)
-![walk2](../images/walkbranch2.gif)
-![walk3](../images/walkbranch3.gif)
+![walk1](../images/Swalkbranch1.gif)
+![walk2](../images/Swalkbranch2.gif)
+![walk3](../images/Swalkbranch3.gif)
 
-I was ready for the mountain. Before the climb, I extended the reach of my body with the branches. As I walked, I could feel subtle vibrations through the branches — traces of movement, friction, and contact. (add gif of mountain walk)
 
-But could I go further? Could this tactile sense also become audible? By attaching contact microphones to the branches’ tips, I could translate those vibrations into sound, amplifying the otherwise inaudible interactions between my movement and the mountain. Walking would be transformed by the act of bringing the sounds of the biotic to the forefront of my acoustic experience. Can the sound of the movement tell me something about the mountain? What conversations will emerge? Through the branches of a fallen tree, I expand my hearing. In the echoes of my movement, I hear the mountain
+And outside in the streets of Poblenou! I extended the reach of my body with the branches. As I walked, I could feel subtle vibrations through the branches — traces of movement, friction, and contact.
+
+![mewalk](../images/Smewalk1.gif)
+![mewalk2](../images/Smewalk2.gif)
+![mewalk2](../images/arm.gif)
+
+
+Now I am ready for the mountain. But could I go further? Could this tactile sense also become audible? By attaching contact microphones to the branches’ tips, I could translate those vibrations into sound, amplifying the otherwise inaudible interactions between my movement and the mountain. Walking would be transformed by the act of bringing the sounds of the biotic to the forefront of my acoustic experience. Can the sound of the movement tell me something about the mountain? What conversations will emerge? Through the branches of a fallen tree, I expand my hearing. In the echoes of my movement, I hear the mountain
   
 
 
