@@ -18,8 +18,8 @@ For some time now, I have been drawn to a curious endeavor: talking to the mount
  
 The notion of cyborg offered some inspiration for this experiment. Cyborg art is about creating new senses or expanding the existing ones to better connect to ecologies. My challenge was to develop a sensory prothesis to untap a new channel of communication with the mountain. However, I’ve long felt uneasy about the conventional aesthetics of sensory augmentation that are loaded with electronics, wires, and synthetic materials — a technological skin that, to me, feels at odds with the organic world I seek to attune to. I wanted to expand my sensory system with natural elements. So I set up to collect fallen tree branches in Poblenou. This was the starting point for Echoing Branches.
 
-![collect1](../images/collectbranch1.gif)
-![collect2](../images/collectbranch2.gif)
+![collect1](../images/Scollectbranch1.gif)
+![collect2](../images/Scollectbranch2.gif)
 
 I attached the branches with a wire so that any person could wear them in the arms, legs (below the knees) and back. I ran some tests in the space of IAAC building (Thanks Ayal for wearing the branches!).
 
