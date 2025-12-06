@@ -119,7 +119,3 @@ extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
 
-markdown_extensions:
--attr_list
-
-
