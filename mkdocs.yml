@@ -16,6 +16,7 @@ nav:
       - Fundamentals of Making: project/fundamentals-of-making.md
       - Other Species: project/other-species.md
       - Living with your ideas: project/living-with-your-ideas.md
+      - Unpacking tech systems: project/unpacking-tech-systems.md
   - My Design bet: my-design-bet.md
   - Reflections :
       - Term 1:
@@ -117,3 +118,8 @@ markdown_extensions:
 extra_css:
   - stylesheets/extra.css
   - https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css
+
+markdown_extensions:
+-attr_list
+
+
