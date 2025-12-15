@@ -208,6 +208,9 @@ I wanted to explore integrating different entry points into interspecies communi
 
 Augmented branches is a sculptural extension of my body — a structure of tree branches that allows me to listen to the vibration of my movement through the soil and record it. Each branch is equipped with contact microphones at its tips. As I move, the branches brush against the environment, picking up subtle vibrations and surface contacts. These mechanical signals are converted into electrical ones, then the sound is transmitted to my skull via bone-conduction transducers and recorded. Through this prothesis, I can explore the restorative effects of the sound or vibrations of the soil morphology as I climb Collserola. 
 
+![boostin](../images/Smewalk1.gif)
+![boostin](../images/echoingsoil_walkinmountain.gif)
+![boostin](../images/Smewalk2.gif)
 
 ### Technical strategy: system of contact microphones 
 
@@ -435,8 +438,8 @@ I used Sonic Visualiser to visualize the frequency range of my voice audio. The 
 
 The main speech range is from 100 Hz to 4 kHz. The main voice energy has bright bands between 500 Hz and 3 kHz. These are the strongest parts of human speech. The fundamental frequency (pitch) appears around 100–250 Hz, which is typical for normal spoken voice. Higher harmonics and consonants spread from 3 kHz to 6 kHz, these help make speech intelligible. Everything above 8 kHz should be mostly air noise or microphone noise, very little speech energy. After this, I edited the audio in Audacity to better match the desired range of frequency: 0 Hz → 1500 Hz. I removed everything above 1500 Hz and boosted the range of 100–500 Hz
 
-![spectogram](../images/audacity.jpg)
-![spectogram](../images/audacity.jpg)
+![audacity](../images/audacity.jpg)
+![boostin](../images/boosting.png)
 
 
 ## Protocol
