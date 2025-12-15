@@ -98,33 +98,34 @@ I also learned that communication implies consent, and that consent may sometime
 On September 30th, 2025, I arrived in Barcelona and felt an immediate pull to visit the closest mountain to my new place of residence: Montjuïc. On my very first day in the city, I hiked up the mountain to introduce myself—to the land and to the city. I watched my first sunset in Barcelona from its slopes and asked the mountain for blessings. This initial encounter inspired the design of a specific protocol to explore Montjuïc as an emotional companion through repeated visits. The protocol consisted of four hikes conducted over the span of two weeks. It was designed a priori and focused on multisensorial attunement and multimedia documentation. 
 This protocol relies on multisensorial immersion as a data collection strategy. Each visit followed the same observational structure, allowing for comparison across time while remaining open to emergent experiences. The following elements were documented during each hike:
 
-•Temporal context: time of day and environmental conditions.
-•Embodied state: initial and final physical and emotional conditions.
-•Tactile and olfactory engagement: touching leaves, soil, rocks; noting textures, temperature, moisture, pace, oscillations, pauses, and stops.
-•Soundscape categorized as:
--Biophony: sounds produced by living organisms (e.g., birds, insects),
--Geophony: non-biological natural sounds (e.g., rain, wind),
--Anthrophony: human-made sounds (e.g., traffic, voices).
-•Human movement: trail location, directionality, repetition, and morphology of movement.
-•Linguistic communication: pre-planned speech directed toward the mountain.
-•Responsive communicative acts: improvised oral or written responses triggered by environmental cues, including memories, emotions, and impulses to express through speech, touch, or poetry. These spontaneous acts were recorded as audio or text.
+-Temporal context: time of day and environmental conditions.
+-Embodied state: initial and final physical and emotional conditions.
+-Tactile and olfactory engagement: touching leaves, soil, rocks; noting textures, temperature, moisture, pace, oscillations, pauses, and stops.
+-Soundscape categorized as:
+Biophony: sounds produced by living organisms (e.g., birds, insects),
+Geophony: non-biological natural sounds (e.g., rain, wind),
+Anthrophony: human-made sounds (e.g., traffic, voices).
+-Human movement: trail location, directionality, repetition, and morphology of movement.
+-Linguistic communication: pre-planned speech directed toward the mountain.
+-Responsive communicative acts: improvised oral or written responses triggered by environmental cues, including memories, emotions, and impulses to express through speech, touch, or poetry. These spontaneous acts were recorded as audio or text.
+
 
 <table border="1">
   <tr>
     <td>
-Example: Montjuïc visit, day 3 <br>
-Initial physical state: physically exhausted after hiking to Valldaura Labs; still recovering from the flu. <br>
-Initial affective state: tired, longing for company without conversation; seeking reflection and quiet presence. <br>
-Tactile engagement: intermittent rain felt on the body; contact with wet leaves, soil, and rocks. <br>
-Olfactory engagement: smell of rain and wet earth. <br>
-Voice: poems were recited aloud at the summit and reflections recorded orally; otherwise, silence was maintained. <br>
-Soundscape: <br>
-•	Biophony: birds and insects, <br>
-•	Geophony: intermittent rain, heavier at the beginning of the hike <br>
-•	Anthrophony: traffic noise near the base, fading into quiet at the top, with distant white noise from the city. <br>
-Movement: continuous upward movement along a fixed path—stairs, concrete pathway, soil trail—ending at the highest point aligned with a row of palm trees. <br>
-Speech: poems recounting my encounters with other mountains I had visited that year <br>
-Final state: physically tired but emotionally restored <br>
+- **Example: Montjuïc visit, day 3**<br>
+- **Initial physical state:** physically exhausted after hiking to Valldaura Labs; still recovering from the flu.<br>
+- **Initial affective state:** tired, longing for company without conversation; seeking reflection and quiet presence.<br>
+- **Tactile engagement:** intermittent rain felt on the body; contact with wet leaves, soil, and rocks.<br>
+- **Olfactory engagement:** smell of rain and wet earth.<br>
+- **Voice:** poems were recited aloud at the summit and reflections recorded orally; otherwise, silence was maintained.<br>
+- **Soundscape:**<br>
+  - **Biophony:** birds and insects<br>
+  - **Geophony:** intermittent rain, heavier at the beginning of the hike<br>
+  - **Anthrophony:** traffic noise near the base, fading into quiet at the top, with distant white noise from the city<br>
+- **Movement:** continuous upward movement along a fixed path—stairs, concrete pathway, soil trail—ending at the highest point aligned with a row of palm trees.<br>
+- **Speech:** poems recounting my encounters with other mountains I had visited that year<br>
+- **Final state:** physically tired but emotionally restored<br>
 </td>
   </tr>
 </table>
@@ -144,6 +145,9 @@ Moreover, this protocol highlighted vulnerability as a central condition for int
 
 This experience led me to reconsider the premise of my research. Meaningful communication with mountains may have less to do with advanced technologies or sophisticated algorithms—although those have their place—and more to do with cultivating openness and vulnerability. Mountains, as emotional companions, are peculiar beings: vast in scale, shaped by deep geological time, and offering a perspective in which human lives appear fleeting. It is from this temporal and spatial immensity that I sense a form of wisdom in mountains, one that invites humility, grounding, and care.
 
+[1PP video](https://www.youtube.com/watch?v=9pZP2DQsQqw)
+
+
 ## Personal Manifesto
 
 I understand communication not as an empty exchange of information nor as a purely rational processing of data, but as a reciprocal act that cultivates material, affective, emotional, and spiritual entanglements with the more-than-human world.
@@ -154,3 +158,87 @@ I communicate with mountains to remember my kinship with nonhuman beings. Mounta
 I communicate with mountains as an act of deep vulnerability to nurture mutual healing. Mountains are my emotional companions. By offering them my vulnerability, I learn to trust them with my feelings, while also becoming attentive to their own fragility amid anthropogenic disruptions. I receive emotional restoration from mountains, and in return I commit to care for, restore and heal their damaged or threatened landscapes.
 
 I communicate to experience spiritual self-transcendence. Mountains are sites of pilgrimage and transformation. Through rituals of reciprocity, they afford transitions into altered states of consciousness, to experience the boundless flow of nature.  The sacred emerges through embodied practice, reverence, and sustained relationship.
+
+# II Prototyping Actions: interspecies communication with the mountain {: .master-title}
+
+
+__ Conceptual Definition: I want to design an interspecies communication system to engage and practice mutual healing with the mountain interspecies communities, as a radical act of reciprocity. __
+
+*Hypothesis 1*: I can embody the stillness of the mountain as a form of human communication. This can help me to train myself to embrace stillness as a form of communication to cultivate attentiveness to nature. 
+*Prototype idea 1*: I can create ritualistic practice that involves stillness as a form of communication. The set up will consist of 2 people sitting in meditative positions facing each other. The experiment consists in looking at each other’s eyes for 20 minutes while holding a still facial expression and body posture
+This exercise also helps me to decenter myself from human communication standards because my human relationships are full with words, and sometimes I judge human communication based on the capacity of people to orchestrate words in a beautiful way. And it doesn’t have to be. I thought of the mountain as a teacher in how I communicate. I want to test what would it be like to communicate with somebody that I already know not with words but with static presence (being present while remaining still or unmoving). 
+
+*Hypothesis 2*: I can “listen to the mountain” by becoming an extended body of branches with contact microphones while I conduct meditative walks in Collserola Mountain. 
+*Prototype idea 2*: EchoingBranches is a wearable sensor-body made from branch-like arms that mechanically interact with the mountain surfaces.  The branches pick up low-frequency/mechanical vibration and surface contact; sensors at their tips convert these mechanical signals into electrical signals; those signals are sonified (or frequency-shifted) and delivered to your skull via bone-conduction transducers, letting you perceive the mountain’s textures and micro-movements as sound/vibration.
+
+*Hypothesis 3*: I can create an ecoacoustic system to contribute to increase biodiversity in Collserola mountain. Ecoacoustic restoration is the interdisciplinary field that studies and applies sound-based methods to restore damaged ecosystems.
+*Prototype idea 3*: EchoingSoil is an experience that allows me to communicate with the soil for mutual healing.  Sounds of the soil can offer me restorative effects, and, in turn, I can broadcast restorative sounds to the soil microbiota
+
+
+
+# III Acting Individually: Towards Mutual Healing {: .master-title}
+
+## Conceptual Statement
+
+In a modern world that has forgotten to listen to the voice of Mother Nature, I want to create an embodied interspecies communication system to listen and speak to the soil.  Inspired by notions of reciprocity, biophilia and ecoacoustic restoration, I frame the exchange of sounds and vibrations between humans and soil as a practice of mutual care and healing.
+
+## Action Strategy: ritualistic + scientific-technical
+
+I wanted to explore integrating different entry points into interspecies communications. On one hand, I wanted to approach communication with the soil as a deeply affective and intuitive-oriented practice, and on the other hand, I wanted to explore scientific frameworks of communication as a form of sonic restoration of biodiversity, and the use of electronics to communicate with the soil.
+
+!!! note "Site: Collserola Mountains"
+    Collserola is a Mediterranean forest ecosystem, featuring distinct habitats such as holm oak and pine forests, gallery forests, scrubland, and aquatic environments.  
+    The area is characterized by plants like holm oak, Aleppo pine, and various oaks, supported by a diverse range of fauna, including wild boars, genets, and a variety of birds.  
+    As students, we have access to Valldaura Labs, situated at the top of one of the mountains.
+
+    There were a few contexts around Valldaura Labs that were initially of interest to me:
+    
+    - **A:** Broadcast combined sounds of natural predators of squirrels and squirrels’ alarm calls as acoustic repellents to protect nurseries for oak trees
+    - **B:** Broadcast sounds of birds, insects, and small mammals for wildlife recolonization in patches of connectivity interest
+    - **C:** Broadcast sounds for soil microbiota (fungi, bacteria) in our collective land plot to grow medicinal plants
+
+    I ended up choosing option **C** because of my ongoing relationship with the land plot and my interest in exploring my entanglements with soil.
+
+
+## Artifact 1: EchoingBranches
+
+Augmented branches is a sculptural extension of my body — a structure of tree branches that allows me to listen to the vibration of my movement through the soil and record it. Each branch is equipped with contact microphones at its tips. As I move, the branches brush against the environment, picking up subtle vibrations and surface contacts. These mechanical signals are converted into electrical ones, then the sound is transmitted to my skull via bone-conduction transducers and recorded. Through this prothesis, I can explore the restorative effects of the sound or vibrations of the soil morphology as I climb Collserola. 
+
+### Technical strategy: system of contact microphones 
+
+The initial idea was to also collect those sounds to broadcast it to the soil microbiota in the collective garden. However, due to technical problems with the contact microphone that I bought, I didn’t fully develop this artifact. I wore the branches and engaged only with the vibration of my movement in the soil morphology as I hiked up to the land plot. 
+
+![brancheswiring](../images/echoingbranches_wiring.jpg)
+
+
+## Artifact 2: EchoingSoil
+
+EchoingSoil is an electronic system that broadcasts sounds to the soil microbiota to enhance soil biodiversity and improve nutrient cycling and plant growth. Iterative sounds of 8Khz can stimulate beneficial fungus (e.g. Trichoderma harzianum) that promotes plant growth, nutrient cycling, and pathogen resistance
+
+### Scientific strategy: Sonic restoration of soil 
+
+One source of inspiration for this action is the field of ecoacoustic restoration that sustains that by orchestrating soundscapes, we can increase the likelihood of organisms recolonizing degraded habitats. Specifically, I want to explore sonic restoration of soil. 
+
+It has been recently studied that soil microorganisms not only emit sound but are also able to listen to it through a mechanisms of mechanoperception, with behavioral impacts. Earthworms, isopods, roots, bacteria, and fungi all respond to mechanical vibrations. For example, I followed a scientific protocol that tested sound at specific frequencies of 8 to 11 Khz to stimulate Trichoderma harzianum, a beneficial fungus that promotes plant growth, nutrient cycling, and pathogen resistance. The treatment with sound increase biomass growth in the fungi. 
+
+*Scientific parameters for sound traits*
+
+| **Parameter** | **Based on Robinson et al. (2024) and related literature** |
+|--------------|------------------------------------------------------------|
+| **Frequency range** | Band-limited noise including frequencies from roughly 4,000 Hz up to 11,000 Hz, centered on 8,000 Hz (4–11 kHz bandwidth, 8 kHz peak). Lower frequencies (<1 kHz) travel better in soil but may affect organisms differently; some low frequencies inhibit fungal growth. |
+| **Sound level** | Around 80 dB SPL measured near the source. Keep below ~90 dB to avoid adverse effects or soil heating. |
+| **Duration** | 30 minutes per day for 5 days yielded clear effects. Continuous 24/7 playback has not been tested and may not be necessary; intermittent exposure appears more realistic and energy-efficient. |
+| **Signal type** | Continuous monotone or band-limited noise (not music). In laboratory settings, a pure 8 kHz tone file (“tinnitus masker” audio) was used. |
+| **Medium coupling** | The speaker must be in direct contact with soil (e.g., embedded waterproof transducers). Sound attenuates rapidly with depth, especially above 1 kHz. |
+| **Target organisms** | Beneficial fungi (especially *Trichoderma*) and possibly bacteria. |
+
+
+
+
+
+
+
+
+
+
+# IV Act Collectively: Mutual healing with soil communities {: .master-title}
