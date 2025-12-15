@@ -345,6 +345,7 @@ This makes sense because in general soil is a dense, solid, and porous medium th
 
 I also plan to prepare petri dishes with Trichoderma (good for soil fertility) and Pleurotus Ostreatus (good for bioremediation) to test the sound treatment impact on biomass growth. I started with pleurotus already but the culture was not succesful due to contamination in the biolab.
 
+![fungi](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNyM3h6ZDhsd200bmx3aDZwZTlkZGwzaDd5ejVzN3IwNjE5czJ2ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/roXmxiHWVBs8ZYJknC/giphy.gif)
 
 My aim is to test sound treatment in different fungi species that are good for improving the conditions for plant growth in communal agriculture soil, and soil restoration and remediation in degraded landscapes. 
 
