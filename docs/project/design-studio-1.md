@@ -330,6 +330,10 @@ For my collective action in Valldaura Labs my aim was to broadcast sounds in the
 In a second iteration of my action, I challenged myself to keep expanding and integrating the ritualistic, affective, scientific, technological dimensions of interspecies communication with the soil in the development of EchoingSoil. 
 EchoingSoil 2.0 is a system that broadcast low-frequency sounds from x to x to the soil multispecies community, from earthworms to beneficial fungi to increase soil biodiversity and enhance the conditions for medicinal plants to thrive. Iterative sound treatment can stimulate biomass growth of beneficial fungus Trichoderma harzianum that promotes plant growth, nutrient cycling, and pathogen resistance
 
+![foto](../images/echoingsoilportada.jpg)
+![foto2](../images/electronico.jpg)
+
+
 ### Scientific evidence for sonic restoration in soil: 
 Understanding how soil organisms communicate with sound from a scientific angle was my first step.  Communication in the soil occurs at low frequencies for organisms such as earthworms, insect larvae and plant roots.  While sounds soil mycelium and bacteria emit is less studied, some research suggests they emit and react to low frequencies. Some scientists suggest a fungal response to sound could be increased sporulation.
 
