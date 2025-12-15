@@ -438,3 +438,5 @@ The main speech range is from 100 Hz to 4 kHz. The main voice energy has bright 
 The protocol consists of engaging in both ritualistic and technical steps of communication with the soil. I found myself navigating a web of communication between biological and technological agents. Each transition from one step to the other was a translation from human to digital to biological systems of communication. 
 Learn technical language (scientific + electronic) to communicate with soil>> Assemble electronic system and code >> Meditative hike up the mountain (*) >> Enjoy restorative effects >> Poem writing: onsite writing sessions and post-visit sessions >> Translate human voice to low frequency >> Meditative hike up the mountain >> Arrive to the collective plot at the summit of the hike >>Ask for consent to speak to the soil >> Bury electronic system in land plot >> Broadcast poem in low frequency for 30 minutes >> Repeat for 5 days
 (*) Logistical difficulties: Visits were discontinued as there was warning for porcine flu that hasn’t been lifted until now. 
+
+[Video](https://drive.google.com/file/d/1924igPL_XuIV-p44w0UkthbQXzjOjrv6/view?usp=sharing)
