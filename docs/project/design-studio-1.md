@@ -200,9 +200,14 @@ I wanted to explore integrating different entry points into interspecies communi
     I ended up choosing option **C** because of my ongoing relationship with the land plot and my interest in exploring my entanglements with soil.
 
 
+![valldaura1](../images/echoingsoil_valldaura.gif)
+![land](../images/echoingsoil_landplot.gif)
+
+
 ## Artifact 1: EchoingBranches
 
 Augmented branches is a sculptural extension of my body — a structure of tree branches that allows me to listen to the vibration of my movement through the soil and record it. Each branch is equipped with contact microphones at its tips. As I move, the branches brush against the environment, picking up subtle vibrations and surface contacts. These mechanical signals are converted into electrical ones, then the sound is transmitted to my skull via bone-conduction transducers and recorded. Through this prothesis, I can explore the restorative effects of the sound or vibrations of the soil morphology as I climb Collserola. 
+
 
 ### Technical strategy: system of contact microphones 
 
@@ -214,6 +219,13 @@ The initial idea was to also collect those sounds to broadcast it to the soil mi
 ## Artifact 2: EchoingSoil
 
 EchoingSoil is an electronic system that broadcasts sounds to the soil microbiota to enhance soil biodiversity and improve nutrient cycling and plant growth. Iterative sounds of 8Khz can stimulate beneficial fungus (e.g. Trichoderma harzianum) that promotes plant growth, nutrient cycling, and pathogen resistance
+
+
+![coding](../images/echoingsoil_coding.gif)
+![testing](../images/echoingsoil_plugging.gif)
+![speaker](../images/echoingsoil_arduino.gif)
+
+
 
 ### Scientific strategy: Sonic restoration of soil 
 
@@ -232,13 +244,197 @@ It has been recently studied that soil microorganisms not only emit sound but ar
 | **Medium coupling** | The speaker must be in direct contact with soil (e.g., embedded waterproof transducers). Sound attenuates rapidly with depth, especially above 1 kHz. |
 | **Target organisms** | Beneficial fungi (especially *Trichoderma*) and possibly bacteria. |
 
+### Technical strategy: Arduino system to broadcast sounds to the soil 
+I built an electronic consisting of a Barduino connected to a DFplayer and a small speaker. Then I programmed in Arduino IDE a step that controls the broadcasting of the sound of 8kHz. The audio will play 30 minutes one time a day, and repeat this for 5 days.
+ 
+*Electronic system: Wiring diagram*
+
+![arduinowiring](../images/Echoingsoil_wiring.jpg)
+
+*Electronic system: Coding for Arduino IDE*
+
+!!! example "Arduino sketch — DFPlayer soil sound playback"
+    ```cpp
+    #include <SoftwareSerial.h>
+    #include <DFRobotDFPlayerMini.h>
+
+    SoftwareSerial mySerial(10, 11); // RX, TX
+    DFRobotDFPlayerMini myDFPlayer;
+
+    // Set up the time variables
+    const int playDuration = 30 * 60 * 1000; // 30 minutes in milliseconds
+    const int totalDays = 5;
+
+    void setup() {
+      mySerial.begin(9600);
+      Serial.begin(9600);
+
+      if (!myDFPlayer.begin(mySerial)) {
+        Serial.println("DFPlayer not found!");
+        while (true);
+      }
+
+      myDFPlayer.volume(20); // Volume range 0~30
+      Serial.println("DFPlayer ready!");
+    }
+
+    void loop() {
+      for (int day = 1; day <= totalDays; day++) {
+        Serial.print("Playing day ");
+        Serial.println(day);
+
+        myDFPlayer.play(1); // Plays track 001.mp3 on TF card
+
+        unsigned long startTime = millis();
+        while (millis() - startTime < playDuration) {
+          // Wait 30 minutes
+        }
+
+        myDFPlayer.stop(); // Stop after 30 min
+        delay(24L * 60 * 60 * 1000); // Wait 24 hours until next day
+      }
+
+      while (true); // Stop after 5 days
+    }
+    ```
 
 
+## Design Protocol
+Learn technical language (scientific + electronic) to communicate with soil>> Assemble electronic system and code >> Hike up the mountain wearing EchoingBranches >> Meditative walk >> Listen to the sounds of my movement in the soil >> Enjoy restorative effects >> Collect sounds (*) >> Arrive to the collective plot at the summit of the hike >>Ask for consent to speak to the soil >> Bury electronic system in land plot >> Play audio file of 8Khz for 30 minutes >> Repeat for 5 days
+(*)Technical difficulties: I couldn’t match the contact mic with a recording device or speaker due to the lack of embedded amplifier in the microphone or external amp. 
 
+## Reflection 
+After this experiment, I reflected deeply on the acoustic agency of soil and how it impacts me and can impact humans. The act of walking up the mountain and hearing the pulse of movement is a “surface” listening. I wonder: can I create another device to listen underground the sounds of bacteria and mycelium? And can listening to the soil remotely be restorative for human emotional/physical health? Healing with soil acoustics? how can I amplify the restorative effects of soil sound in humans? Is there any translation to specific frequencies that achieves this purpose? 
 
-
-
+Moreover, can I add other sensors in the soil to expand our hearing capacity? Many soil organisms produce vibrations outside the human hearing range. And beyond expanding our listening capacity, I reflected on how we can become more responsive to the acoustic agency of the soil. While listening to the vibrations of the soil brings to the forefront of our acoustic experience, a world that we have largely silenced and ignored, that is just a first step to nurture soil reciprocities. I wonder how we can be transformed by soil sounds. Can continuous listening train us to recognize and understand soil health as is the case in soil acoustic for biodiversity monitoring?
 
 
 
 # IV Act Collectively: Mutual healing with soil communities {: .master-title}
+
+## Community: soil biodiversity
+
+I reflected on the scope and identity of the community that I want to engage with my action. It is the soil, but the soil can be understood from different worldviews. In western anthropocentric thought, soil is seen as inert, passive and inanimate object, therefore it is easy to exploit it, to expel it from the city, to pave over it and silence it. This is the dominant narrative and perhaps the root cause of our current global soil crisis. But soil is not inert. It is agentic and alive, and I wanted to focus on getting to know that soil community and adjust my action design to better communicate with that diversity. 
+My collective action objective remained the same: mutual healing. This entails both: emotional restoration for the human subject (me) and ecological restoration for the soil of our land plot in Valldaura Labs. Understanding the ways in which the soil and me are vulnerable was important as a baseline. My disconnection to land has to do with my migration history, that started even before me, with my past generations losing their connection to land to migrate to the capital city in Peru. As a migrant living for 8 years in 3 different European cities in temporal housing, I have lacked opportunities to develop a sense of stewardship for land. That sense of ungroundedness has become stronger in the past year. 
+In a larger scale, I reflected on the current state of soil degradation in the Anthropocene. But specifically, I reviewed a report of "Soil Vulnerability in Catalunya". There I found that the larger problems of soil degradation in the Catalunya region are agricultural erosion (water/wind) and nitrate pollution. However, in the Barcelona Metropolitan Area the main drivers of soil vulnerability are soil sealing from urbanization and infrastructure, and pollution from extractive activities and landfills. 
+
+Vulnerability Map: Soil degradation in Catalunya
+![mapa](../images/suelos%20vulnerables%20catalunya.jpg)
+
+ 
+When a connection is broken, everyone suffers from it. And there is no mutual healing without nurturing a healthy human-soil entanglement. Sometimes to start this process we need to find places of biocultural hope. I read that the most biodiverse soil is perhaps situated in more undisturbed sites of the metropolitan area like Collserola Park. Coincidentaly, it was the place that had provided me with the opportunity to care for soil in the past 3 months. As students we were provided a plot of land that we prepared by removing weeds, adding compost, sawing medicinal plants like lemongrass, ruda, calendula, among others and watering. So I continue my experimentation there.
+
+For my collective action in Valldaura Labs my aim was to broadcast sounds in the soil that provides a direct stimulation of beneficial fungi and bacterial communities. This would not only potentially increase soil biodiversity but also enhance the conditions for the growth of the medicinal plants of the land plot, further contributing to human healing. I treated the sound frequencies to target insects, nematodes, to beneficial fungi and bacteria. Especially, the Trichoderma fungi that is extremely common and often abundant in compost and healthy garden soils.
+
+## EchoingSoil 2.0: Collective Action Strategy
+In a second iteration of my action, I challenged myself to keep expanding and integrating the ritualistic, affective, scientific, technological dimensions of interspecies communication with the soil in the development of EchoingSoil. 
+EchoingSoil 2.0 is a system that broadcast low-frequency sounds from x to x to the soil multispecies community, from earthworms to beneficial fungi to increase soil biodiversity and enhance the conditions for medicinal plants to thrive. Iterative sound treatment can stimulate biomass growth of beneficial fungus Trichoderma harzianum that promotes plant growth, nutrient cycling, and pathogen resistance
+
+### Scientific evidence for sonic restoration in soil: 
+Understanding how soil organisms communicate with sound from a scientific angle was my first step.  Communication in the soil occurs at low frequencies for organisms such as earthworms, insect larvae and plant roots.  While sounds soil mycelium and bacteria emit is less studied, some research suggests they emit and react to low frequencies. Some scientists suggest a fungal response to sound could be increased sporulation.
+
+| Soil Community                        | Sound Frequency / Notes                                                                 |
+|--------------------------------------|----------------------------------------------------------------------------------------|
+| Earthworms & macrofauna               | 20 Hz – 1.5 kHz (peaking 100–500 Hz)                                                  |
+| Insect larvae (chewing, movement)    | 100 Hz – 3 kHz                                                                         |
+| Plant roots growth                    | Up to 2 kHz                                                                            |
+| Bacterial biofilm (Murphy et al., 2016) | Acoustic vibration (50 Hz) enhanced Pseudomonas aeruginosa biofilm formation        |
+
+
+This makes sense because in general soil is a dense, solid, and porous medium that strongly absorbs high-frequency sounds and efficiently transmits low-frequency ones (typically below 2-5 kHz). A study on effective propagation range shows that frequencies below 1 kHz  (1000 Hz) travel farthest in soil. In the previous iteration of this experiment, I broadcasted a high-frequency sound of 8Khz to the soil. Perhaps for limited scientific knowledge of soil in the beginning I didn’t realize that sound was only meant for lab settings not for a soil set up. The 8kHz frequency was transmitted to petri dishes of Trichoderma through air not below ground. So, this time the frequency parameter was from 0 to 1500 Hz
+
+I also plan to prepare petri dishes with Trichoderma (good for soil fertility) and Pleurotus Ostreatus (good for bioremediation) to test the sound treatment impact on biomass growth. I started with pleurotus already but the culture was not succesful due to contamination in the biolab.
+
+
+My aim is to test sound treatment in different fungi species that are good for improving the conditions for plant growth in communal agriculture soil, and soil restoration and remediation in degraded landscapes. 
+
+### Affective rituals: Message as compost 
+The content of the audio in the first experiment iteration was neutral, just pure white noise of 8kHz. In this iteration, I wanted to bring human voice with intentional meaning. I embedded a poem to soil into my technical system. There are restorative effects in humans that emerge from direct contact with soil, and I wonder if expressing our deepest feelings could have an emotional restorative effect as well. Could speaking to the soil as an emotional companion be a form of sonic therapy for humans as well? So I set to record my own conversation with the soil and later transform it into low-frequency audio that I could broadcast to the soil. 
+After all, the sound frequency is targeted to enhance decomposition in the soil. What is a human message that is also compost? What words would I offer as compost? Can I ask the soil to decompose aspects of our modern society/ worldview? In this specific land plot in Valldaura, we are growing medicinal plants. I suddenly thought it makes so much sense to tell the plants roots what I need to heal. So I created a specific poem by combining my notes during my many encounters with the soil in Collserola Park. Some notes were taken on site, some as a posteriori reflection.  I have started this way to nurture an emotional entaglement with this plot of land. For the future I would like to collect people’s intimate messages to the soil, whether those are messages for emotional healing or any other thing people want to whisper to the soil. 
+
+<table border="1">
+  <tr>
+    <td>
+
+Hablarte desde este aislamiento<br>
+Una imposibilidad técnica<br>
+Un susurro a la profundidad<br>
+Que se vuelve una arqueología emocional<br>
+Cables, electrónicos, códigos<br>
+Son traducciones innecesarias?<br>
+Es mi voz suficiente?<br>
+
+Te remuevo con los dedos<br>
+Se remueven las memorias<br>
+Del susurro de mi abuelo<br>
+La tierra nos da vida<br>
+Tu olor luego de la lluvia<br>
+Tu textura en mi piel<br>
+De la tierra que abandonó mi abuela<br>
+De su ausencia en mi madre<br>
+
+Te siento en mi superficie<br>
+A donde llegara mi voz?<br>
+A esa profundidad donde vive el vacío<br>
+o es el vacío que vive en mi?<br>
+ese lugar donde habita el olvido,<br>
+la cicatriz de separación<br>
+
+Soy flotante como otros huérfanos de tierra<br>
+He vivido entre suelos pavimentados y explotados<br>
+Pero tu vida pulsante me llama de vuelta<br>
+El velo de percepción se agrieta<br>
+Del silencio a la polifonía<br>
+Un mar de frecuencias<br>
+Busco mi camino<br>
+¿Es mi voz suficiente?<br>
+
+¿A dónde pertenezco?<br>
+Permiso para entrar<br>
+Me sostienes, te sostengo<br>
+Permiso para pedir refugio<br>
+Con cada palabra<br>
+Con cada cuidado<br>
+Tejemos lazos de reciprocidad<br>
+Se gesta un corazón fértil<br>
+Eso que encontré muy adentro,<br>
+Un lugar que llevaba tu nombre<br>
+
+En la cumbre de esta montaña recuerdo como hablarte<br>
+Frecuencias, vibraciones, intenciones<br>
+Mi voz es suficiente<br>
+Profundidades de honestidad<br>
+Este mundo pide ser descompuesto<br>
+Y sabes? Quiero enterrar algo de mi<br>
+¿Quien me oye?<br>
+Ese coro de vida<br>
+A los alquimistas de esta tierra<br>
+Bichos, micelio, bacterias<br>
+Les invoco<br>
+Les ofrendo este humus ontológico<br>
+
+Suelito repleto de vida<br>
+Cuida de la medicina que plantamos<br>
+Siembra en mi la fertilidad para transformar<br>
+El poder de hablar lenguajes de restauración<br>
+
+</td>
+  </tr>
+</table>
+
+### Electronic and digital translations 
+The previous electronic prototype was on a protoboard. This time, I soldered the final electronic assemblage and added a bigger speaker.  I also changed the generic audio for the audio with my voice. This required sound edition to match the right sound frequencies. 
+I used Sonic Visualiser to visualize the frequency range of my voice audio. The spectrogram shows frequency vs. time, where the vertical axis = frequency, 0 Hz at the bottom, higher frequencies toward the top; and colors show intensity, where green = lower intensity, yellow/orange = stronger 
+
+![spectogram](../images/spectogram.png)
+
+The main speech range is from 100 Hz to 4 kHz. The main voice energy has bright bands between 500 Hz and 3 kHz. These are the strongest parts of human speech. The fundamental frequency (pitch) appears around 100–250 Hz, which is typical for normal spoken voice. Higher harmonics and consonants spread from 3 kHz to 6 kHz, these help make speech intelligible. Everything above 8 kHz should be mostly air noise or microphone noise, very little speech energy. After this, I edited the audio in Audacity to better match the desired range of frequency: 0 Hz → 1500 Hz. I removed everything above 1500 Hz and boosted the range of 100–500 Hz
+
+![spectogram](../images/audacity.jpg)
+![spectogram](../images/audacity.jpg)
+
+
+## Protocol
+The protocol consists of engaging in both ritualistic and technical steps of communication with the soil. I found myself navigating a web of communication between biological and technological agents. Each transition from one step to the other was a translation from human to digital to biological systems of communication. 
+Learn technical language (scientific + electronic) to communicate with soil>> Assemble electronic system and code >> Meditative hike up the mountain (*) >> Enjoy restorative effects >> Poem writing: onsite writing sessions and post-visit sessions >> Translate human voice to low frequency >> Meditative hike up the mountain >> Arrive to the collective plot at the summit of the hike >>Ask for consent to speak to the soil >> Bury electronic system in land plot >> Broadcast poem in low frequency for 30 minutes >> Repeat for 5 days
+(*) Logistical difficulties: Visits were discontinued as there was warning for porcine flu that hasn’t been lifted until now. 
