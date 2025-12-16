@@ -145,15 +145,16 @@ Moreover, this protocol highlighted vulnerability as a central condition for int
 
 This experience led me to reconsider the premise of my research. Meaningful communication with mountains may have less to do with advanced technologies or sophisticated algorithms—although those have their place—and more to do with cultivating openness and vulnerability. Mountains, as emotional companions, are peculiar beings: vast in scale, shaped by deep geological time, and offering a perspective in which human lives appear fleeting. It is from this temporal and spatial immensity that I sense a form of wisdom in mountains, one that invites humility, grounding, and care.
 
-<iframe 
-  width="100%" 
-  height="315" 
-  src="https://www.youtube.com/watch?v=9pZP2DQsQqw" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-</iframe>
+<div style="max-width: 800px; margin: 1.5rem auto;">
+  <div style="position: relative; padding-bottom: 56.25%; height: 0;">
+    <iframe
+      src="https://www.youtube.com/embed/9pZP2DQsQqw"
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen>
+    </iframe>
+  </div>
+</div>
 
 
 ## Personal Manifesto
@@ -455,12 +456,14 @@ The protocol consists of engaging in both ritualistic and technical steps of com
 Learn technical language (scientific + electronic) to communicate with soil>> Assemble electronic system and code >> Meditative hike up the mountain (*) >> Enjoy restorative effects >> Poem writing: onsite writing sessions and post-visit sessions >> Translate human voice to low frequency >> Meditative hike up the mountain >> Arrive to the collective plot at the summit of the hike >>Ask for consent to speak to the soil >> Bury electronic system in land plot >> Broadcast poem in low frequency for 30 minutes >> Repeat for 5 days
 (*) Logistical difficulties: Visits were discontinued as there was warning for porcine flu that hasn’t been lifted until now. 
 
-<iframe 
-  width="100%" 
-  height="315" 
-  src="https://www.youtube.com/embed/R4IjBM3_Ap8" 
-  title="YouTube video player" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-  allowfullscreen>
-</iframe>
+<div style="max-width: 640px; margin: 1rem auto;">
+  <iframe
+    src="https://www.youtube.com/embed/R4IjBM3_Ap8"
+    width="640"
+    height="360"
+    style="max-width: 100%; display: block; border: 0;"
+    title="YouTube video player"
+    allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
