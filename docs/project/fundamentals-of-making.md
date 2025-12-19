@@ -62,5 +62,3 @@ Finally, we got the desired outcome: the mountain-object in the texture and colo
 
 
 ![finalobj1](../images/final%20object%20front.jpg)
-![finalobj2](../images/finalobject%20side.jpg)
-
