@@ -37,6 +37,8 @@ For the molding exercise, we poured silicone into the box containing the 3D-prin
 
 In this exercise, we were asked to create a hollow square as a placeholder for a final object. To maintain conceptual continuity with the previous steps, we integrated the mountain shape into the CNC-milled design. We prepared the toolpaths using RhinoCAM. Among all the fabrication technologies explored, CNC milling was the one I had the least time to fully understand. Nevertheless, I am eager to explore it further, especially because of its potential for creating large-scale molds for biomaterials such as bioplastics or mycelium-based objects.
 
+![cnc](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGlkYnNnMGk2d252cnkxdThqOHh1aHBmYXpnc2ppdmFhY2NrOGJyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TkDhphBtHRO6v8h2s9/giphy.gif)
+
 ## Biomaterials
 
 The biomaterials exercise was the most exciting part of the project for me, as I have a strong interest in this field. Ironically, it also proved to be the most challenging. We selected a resin-and-wax-based recipe intended to produce a hard object. Although we correctly scaled up the quantities from a small-scale recipe, our first result did not meet expectations: the material remained sticky and lacked structural solidity. Cleaning the mold afterward was particularly difficult.
