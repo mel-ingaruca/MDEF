@@ -2,7 +2,7 @@
 
 Throughout the overall design process, we took inspiration from organic forms. This approach was reflected in the use of undulating lines and mountain-like morphologies in the mold design. This course helped me explore how natural patterns can inform digital fabrication techniques across multiple processes.
 
-![inline](../images/finalobject%20side.jpg)
+![inline](../images/lineup.jpg)
 
 
 ## Laser Cutting
@@ -41,17 +41,25 @@ In this exercise, we were asked to create a hollow square as a placeholder for a
 
 ## Biomaterials
 
-The biomaterials exercise was the most exciting part of the project for me, as I have a strong interest in this field. Ironically, it also proved to be the most challenging. We selected a resin-and-wax-based recipe intended to produce a hard object. Although we correctly scaled up the quantities from a small-scale recipe, our first result did not meet expectations: the material remained sticky and lacked structural solidity. Cleaning the mold afterward was particularly difficult.
-
-To address this, we conducted several small-scale tests to better understand the behavior of the material. Through experimentation, we learned how to adapt the recipe for larger volumes. The filler played a crucial role in providing structural integrity, and although most ingredients were scaled proportionally, the alcohol—which dissolves the resin—needed to be increased only slightly, as excessive amounts made the mixture too liquid. Additionally, allowing the mixture to cool slightly before pouring helped the ingredients integrate more effectively.
-
-Finally, we got the desired outcome: the mountain-object in the texture and color of sand dunes. 
-
+The biomaterials exercise was the most exciting part of the project for me, as I have a strong interest in this field. Ironically, it also proved to be the most challenging. We selected a resin-and-wax-based recipe intended to produce a hard object. 
 ![cookingresin](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpsdGNhMmdkb3R2MHhrZGplOXRtYW0wbjE3azQxMWF1OGdhZDdjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xPL0KTecZrwYwGmYrj/giphy.gif)
 
 ![addwax](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2JvbjNpNzFoZDBlY2tobmNmbGUzNXhqMWdsYnF1MWl3d294cXQwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xeRlovfq060kZZ70zY/giphy.gif)
 
+Although we correctly scaled up the quantities from a small-scale recipe, our first result did not meet expectations: the material remained sticky and lacked structural solidity. Cleaning the mold afterward was particularly difficult.
+
+To address this, we conducted several small-scale tests to better understand the behavior of the material. 
+
+
 ![pouringresin](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjRmMHpjZ2dqdnIzNDlyand0dTNhNTZiajc0ZnNuZzkyejk4Y3I5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rojmesH3QGU8j7jnta/giphy.gif)
+
+
+Through experimentation, we learned how to adapt the recipe for larger volumes. The filler (we used shrimp shells) played a crucial role in providing structural integrity, and although most ingredients were scaled proportionally, the alcohol—which dissolves the resin—needed to be increased only slightly, as excessive amounts made the mixture too liquid. Additionally, allowing the mixture to cool slightly before pouring helped the ingredients integrate more effectively. 
+![sample](../images/sample1.jpg)
+![sample](../images/samples.jpg)
+
+Finally, we got the desired outcome: the mountain-object in the texture and color of sand dunes. 
+
 
 ![finalobj1](../images/final%20object%20front.jpg)
 ![finalobj2](../images/finalobject%20side.jpg)
