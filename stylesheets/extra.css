@@ -136,3 +136,20 @@ body{background-color: #ffffff;}
   }
 }
 
+
+/* Additional rules to remove all borders and outlines from images */
+.md-typeset img {
+  border-width: 0 !important;
+  outline: none !important;
+  outline-width: 0 !important;
+  -webkit-box-shadow: none !important;
+}
+
+.md-typeset img[alt="me"] {
+  border: none !important;
+  border-width: 0 !important;
+  outline: none !important;
+  outline-width: 0 !important;
+  box-shadow: none !important;
+  -webkit-box-shadow: none !important;
+}
