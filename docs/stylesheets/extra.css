@@ -136,9 +136,20 @@ body{background-color: #ffffff;}
   }
 }
 
+/* Hide page title (h1) on home page */
+.md-content__inner:has(.home-content) h1:first-of-type,
+.md-content__inner:has(img[alt="me"]:first-of-type) h1:first-of-type {
+  display: none !important;
+}
 
 /* Make paragraphs larger on home page only */
-.home-content p {
+.md-content__inner:has(img[alt="me"]:first-of-type) p {
+  font-size: 1.25rem !important;
+  line-height: 1.7 !important;
+}
+
+/* Alternative selector for browsers that don't support :has() */
+body[data-md-state] .md-content__inner p:first-of-type {
   font-size: 1.25rem !important;
   line-height: 1.7 !important;
 }
