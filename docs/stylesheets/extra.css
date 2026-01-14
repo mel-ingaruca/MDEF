@@ -142,14 +142,3 @@ body{background-color: #ffffff;}
   display: none !important;
 }
 
-/* Make paragraphs larger on home page only */
-.md-content__inner:has(img[alt="me"]:first-of-type) p {
-  font-size: 1.25rem !important;
-  line-height: 1.7 !important;
-}
-
-/* Alternative selector for browsers that don't support :has() */
-body[data-md-state] .md-content__inner p:first-of-type {
-  font-size: 1.25rem !important;
-  line-height: 1.7 !important;
-}
