@@ -1,5 +1,5 @@
-![me](images/hometext.jpg)
 
+![me](images/hometext.jpg)
 
 In the Anthropocene, we live in damaged landscapes. Our ecological crisis is also a crisis of meaning. We need to transform design cultures. I believe design can be a transformational force that restores our connection with the biosphere. 
 
