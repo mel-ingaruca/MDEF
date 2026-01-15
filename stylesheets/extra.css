@@ -142,3 +142,12 @@ body{background-color: #ffffff;}
   display: none !important;
 }
 
+
+/* Hide "Last update" date and its column */
+.md-source-file,
+.md-source-date,
+.md-content__inner .md-source-date,
+.md-content__inner time[datetime],
+.md-content__inner .git-revision-date-localized-plugin {
+  display: none !important;
+}
