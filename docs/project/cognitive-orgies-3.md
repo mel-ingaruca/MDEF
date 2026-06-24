@@ -7,3 +7,6 @@ Nature exploitation has arguably its roots in a dualistic view of humans and nat
 Physically, they were separate skins, but they were both connected through an electronic system. That was the second strategy: to map zones of the mesh sculpture to zones of the bioplastic skin, the connection was activated by the act of touch. When people touch parts of the mesh sculpture (the landscape bodies of deforested rainforests, monocultures, etc), they felt a haptic vibration on their bodies. This part was making people in awe and curious. Here we also wanted to include an additional interaction: when people touch the landscape they would see it changing into a healthier state, but that required more time in touch designer, something to explore later. 
 
 In general, we were very happy with the result of the interaction, it had some glitches sometimes but maybe that was due to the connection through wifi of both ESP32S3, one connected to the mesh and the other to the skin. Having this working smoothly would be also another goal of a future iteration. 
+
+![bioskin](../images/bioskin.jpg)
+![installation](../images/bodyasland.jpg)
